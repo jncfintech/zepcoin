@@ -1,1 +1,0 @@
-(self.webpackChunkfrontend_crypto=self.webpackChunkfrontend_crypto||[]).push([[563],{36563:function(){}}]);
